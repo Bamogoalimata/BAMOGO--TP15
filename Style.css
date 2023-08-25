@@ -1,0 +1,141 @@
+.ab{
+    background-color: rgb(0, 157, 255);
+    text-align: center;
+    background-size: cover;
+    height: 80vh;
+    padding-top: 200px;
+
+}
+.asso{
+    font-size: 60px;
+    color: yellow;
+}
+.assa{
+    font-size: 60px;
+    color: white;
+    font-family:impact;
+}
+.assi{
+    color: white;
+    font-style: italic;
+    font-size: 30px;
+}
+.amo{
+    padding: 05px;
+    margin-right: 10px;
+    background-color: yellow;
+    border: none;
+    border-radius: 5px;
+    
+}
+.ama{
+    padding: 05px;
+    margin-left: 10px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.ia{
+    color: rgb(237, 44, 112);
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;
+    
+}
+.ao{
+    margin-left: 100px;
+}
+.io{
+    margin-left: 320px;
+}
+.navbar{
+background-color: black;
+}
+.yu{
+    display: flex;
+    text-align: center;
+}
+.aa{
+color: yellow;
+
+}
+.no{
+    color: rgb(237, 44, 112);
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;  
+}
+.na{
+    margin-left: 320px; 
+}
+.rouge{
+    display: flex;
+
+}
+.badou{
+    font-size: 50px;
+    color: rgb(237, 44, 112);
+}
+.bado{
+    font-size: 50px;
+    color: rgb(237, 44, 112);
+}
+.bada{
+    font-size: 50px;
+    color: rgb(237, 44, 112);
+}
+.blanc h3{
+    font-size: 20px;
+    color: rgb(237, 44, 112);
+}
+.told{
+   color: rgb(237, 44, 112);
+    border: none;
+    border-radius: 5px; 
+}
+.tall{
+    color: rgb(237, 44, 112);
+    border: none;
+    border-radius: 5px;  
+}
+.small{
+    color: rgb(237, 44, 112);
+    border: none;
+    border-radius: 5px;     
+}
+.noir p{
+  margin: 15px;  
+}
+.noir h3{
+    color: rgb(237, 44, 112);   
+}
+.or{
+    
+    color: rgb(237, 44, 112);
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;   
+}
+.ar{
+    padding-right: 100px; 
+    color: white; 
+}
+.orar{
+    background-color: rgb(150, 141, 141);
+    background-size: cover;
+    height: 80vh;
+    text-align: center;
+    font-size: 20px;
+}
+.ok{
+    color: rgb(237, 44, 112);
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;     
+}
+.ak{
+    margin-left: 320px;    
+}
+
+
